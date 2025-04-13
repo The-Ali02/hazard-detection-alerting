@@ -1,0 +1,7 @@
+path: /content/drive/MyDrive/fire
+train: /content/drive/MyDrive/fire/train/images
+val: /content/drive/MyDrive/fire/val/images
+test:  # test images (optional)
+
+nc: 1  # number of classes
+names: ['fire']  # class names
